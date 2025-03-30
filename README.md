@@ -70,3 +70,7 @@ You can easily tweak the following:
 - **Grid dimensions**: Change `num_years` in `generate_dates()`.
 - **Colors**: Change `facecolor` and `edgecolor` in the `FancyBboxPatch`.
 - **Output format**: Export as image/PDF using `plt.savefig()`.
+
+## 📝 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish.
