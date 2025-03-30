@@ -41,7 +41,7 @@ Each cell in the 52×90 grid represents one week. The script:
 3. Run the script to generate your life calendar.
 
 ```python
-BIRTH_DATE = '2004-09-03'
+BIRTH_DATE = '1990-01-01'  # YYYY-MM-DD format
 
 draw_life_calendar(
     birth_date_str=BIRTH_DATE,
@@ -54,7 +54,7 @@ draw_life_calendar(
 ## 📁 Project Structure
 
 ```bash
-life-calendar/
+lifecalendar/
 ├── image.png                        # Sample output image
 ├── life_calendar.ipynb             # Jupyter notebook version
 ├── fonts/
